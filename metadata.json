@@ -1,0 +1,6 @@
+{
+  "name": "Seven Classic - Material Tracker & Trade Docs",
+  "description": "Seven Classic Industries Ltd. Raw Material Balance Tracker and AI-Powered LC / PI Document Draft & PDF Generation System.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
